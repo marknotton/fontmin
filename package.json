@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "fontmin": "^0.9.9"
+  },
+  "scripts": {
+    "build": "node main.js"
+  },
+  "main": "main.js"
+}
